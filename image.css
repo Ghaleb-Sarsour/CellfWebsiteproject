@@ -1,0 +1,25 @@
+.row::after{
+content:"";
+clear:both;
+display: table;
+}
+
+.p{
+    float:left;
+    width: 33%;
+    padding: 60px;
+}
+
+.cells{
+    border-style:groove;
+    border-radius: 25px;
+}
+
+#lefty{
+    padding-left: 200px;
+}
+
+img{
+    border-style:groove;
+    border-radius: 10px;
+}

@@ -1,0 +1,141 @@
+body{
+background-color: skyblue;
+}
+
+.openingbox{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;
+    text-align: center;
+   
+}
+
+.overviewbox{
+    text-align: center;
+    background-color: rgb(23, 141, 161);
+    border-radius: 5px;
+    border-style:solid;
+}
+
+.celloverview{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.part123::after{
+    content:"";
+    clear:both;
+    display: table;
+    }
+    
+    .part456::after{
+        content:"";
+        clear:both;
+        display: table;
+        }
+
+        .part789::after{
+            content:"";
+            clear:both;
+            display: table;
+            }
+
+            .part101112::after{
+                content:"";
+                clear:both;
+                display: table;
+                }
+
+    .part{
+        float:left;
+        width: 32%;
+        padding: 5px;
+    }
+    .part2{
+        float:left;
+        width: 32%;
+        padding: 5px;
+    }
+    .part3{
+        float:left;
+        width: 32%;
+        padding: 5px;
+    }
+    .part4{
+        float:left;
+        width: 32%;
+        padding: 5px;
+    }
+#cytoskeleton{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid; 
+}
+
+#nucleus{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid; 
+}
+
+#ER{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#ribosomes{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#GolgiApparatus{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#vesicles{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#mitochondria{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#vacuole{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#lysosomes{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#centrioles{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#CellWalls{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
+#chloroplasts{
+    background-color: rgb(21, 140, 161);
+    border-radius: 5px;
+    border-style: solid;  
+}
+
